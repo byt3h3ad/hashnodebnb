@@ -1,9 +1,12 @@
 ---
 title: "The Curious Case of 257"
+seoTitle: "python integer caching"
+seoDescription: "python small integer caching till 257"
 datePublished: Mon Jan 09 2023 15:02:29 GMT+0000 (Coordinated Universal Time)
 cuid: clht0fsta07kee5nv7hwefeqj
 slug: the-curious-case-of-257
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684406988128/3e29eed7-4954-4320-96fc-7bc4ba95ddfc.png
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/D9Zow2REm8U/upload/9c54fc0545c506b50a7c169b58f71250.jpeg
+tags: programming-blogs, python, python3
 
 ---
 
