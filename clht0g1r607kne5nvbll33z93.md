@@ -1,8 +1,12 @@
 ---
 title: "How to start your coding journey"
+seoTitle: "start coding"
+seoDescription: "coding for beginners"
 datePublished: Fri Oct 21 2022 21:06:27 GMT+0000 (Coordinated Universal Time)
 cuid: clht0g1r607kne5nvbll33z93
 slug: how-to-start-your-coding-journey
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cckf4TsHAuw/upload/2da132b59d4c0262c47b61bd96d624f8.jpeg
+tags: coding, codenewbies
 
 ---
 
