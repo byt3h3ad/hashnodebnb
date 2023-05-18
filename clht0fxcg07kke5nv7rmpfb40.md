@@ -1,8 +1,12 @@
 ---
 title: "the new next is here"
+seoTitle: "nextjs"
+seoDescription: "nextjs 13"
 datePublished: Fri Oct 28 2022 13:03:28 GMT+0000 (Coordinated Universal Time)
 cuid: clht0fxcg07kke5nv7rmpfb40
 slug: the-new-next-is-here
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/imgCpfIMoRw/upload/ff514adc09bd6fba463035ea08b01bb7.jpeg
+tags: web-development, webdev, nextjs
 
 ---
 
