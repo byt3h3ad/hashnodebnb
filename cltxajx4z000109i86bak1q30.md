@@ -48,7 +48,7 @@ We're trying to return two things at a time, but this is not valid JavaScript. W
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710783616570/5060dbfb-7700-444f-9b1e-2cc837741429.png align="center")
     
-    `<>` and `</>` is the shorthand for \`React.Fragment\`.
+    `<>` and `</>` is the shorthand for `React.Fragment`.
     
 
 If you want to play around with a transpiler, Babel has a nice [playground](https://babeljs.io/repl) to try out things.
