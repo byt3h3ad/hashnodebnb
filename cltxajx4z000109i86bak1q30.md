@@ -3,6 +3,8 @@ title: "Why JSX Can Have Only One Parent Element"
 datePublished: Mon Mar 18 2024 18:40:43 GMT+0000 (Coordinated Universal Time)
 cuid: cltxajx4z000109i86bak1q30
 slug: why-jsx-can-have-only-one-parent-element
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/XXMA-8fBB-g/upload/0f345cd618cfbc6ec81ba5b861b5cbe1.jpeg
+tags: reactjs
 
 ---
 
@@ -51,6 +53,6 @@ We're trying to return two things at a time, but this is not valid JavaScript. W
 
 If you want to play around with a transpiler, Babel has a nice [playground](https://babeljs.io/repl) to try out things.
 
-So as we can see JSX is not really a requirement for using React.
+So as we can see JSX is not really a requirement for using React. It just really simplifies things and gives a better developer experience.
 
 Docs: [https://legacy.reactjs.org/docs/react-without-jsx.html](https://legacy.reactjs.org/docs/react-without-jsx.html)
